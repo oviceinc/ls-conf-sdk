@@ -1,0 +1,5 @@
+{
+  "name": "ls-conf-sdk",
+  "version": "2.2.4",
+  "main": "src/ls-conf-sdk.js"
+} 
